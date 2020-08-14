@@ -17,6 +17,7 @@
 		* [isBuffer](lodash/isBuffer.md)
 		* [isTypedArray](lodash/isTypedArray.md)
 		* [isEqual](lodash/isEqual.md)
+		* [isArray](lodash/isArray.md)
 		* [isObject](lodash/isObject.md)
 		* [isSymbol](lodash/isSymbol.md)
 		* [isBoolean](lodash/isBoolean.md)
