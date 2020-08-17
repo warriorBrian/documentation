@@ -22,6 +22,7 @@
 		* [isSymbol](lodash/isSymbol.md)
 		* [isBoolean](lodash/isBoolean.md)
 		* [toFinite](lodash/toFinite.md)
+		* [toString](lodash/toString.md)
 		* [toNumber](lodash/toNumber.md)
 		* [toArray](lodash/toArray.md)
 		* [isString](lodash/isString.md)
