@@ -4,6 +4,7 @@
 	  * [chunk](lodash/chunk.md)
 	  * [compact](lodash/compact.md)
 	  * [nth](lodash/nth.md)
+	  * [tail](lodash/tail.md)
 	  <!-- * [difference](lodash/difference.md) -->
 
 	* <span style="color:#9DAAB6;">Lang</span>
