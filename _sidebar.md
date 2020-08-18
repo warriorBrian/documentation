@@ -3,6 +3,7 @@
 	* <span style="color:#9DAAB6;"> 数组 Array</span>
 	  * [chunk](lodash/chunk.md)
 	  * [compact](lodash/compact.md)
+	  * [nth](lodash/nth.md)
 	  <!-- * [difference](lodash/difference.md) -->
 
 	* <span style="color:#9DAAB6;">Lang</span>
@@ -63,6 +64,7 @@
   	* [arrayLikeKeys](lodash/internal/arrayLikeKeys.md)
   	* [createRange](lodash/internal/createRange.md)
   	* [baseRange](lodash/internal/baseRange.md)
+  	* [isIndex](lodash/internal/isIndex.md)
 
 * Javascript Algorithms
 
