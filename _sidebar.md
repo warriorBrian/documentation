@@ -7,6 +7,7 @@
 	  * [tail](lodash/tail.md)
 	  * [head](lodash/head.md)
 	  * [join](lodash/join.md)
+	  * [last](lodash/last.md)
 	  <!-- * [difference](lodash/difference.md) -->
 
 	* <span style="color:#9DAAB6;">Lang</span>
