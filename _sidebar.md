@@ -73,3 +73,8 @@
 * Javascript Algorithms
 
   * [缓存淘汰策略 (LRU)](javascript-Algorithms/LRU.md)
+
+* 30 Seconds of Code
+
+	* <span style="color:#9DAAB6;">Array</span>
+		* [countBy](30scode/countBy.md)
