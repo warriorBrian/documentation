@@ -38,6 +38,9 @@
 	* <span style="color:#9DAAB6;">对象 Object</span>
 		* [values](lodash/values.md)
 		* [keys](lodash/keys.md)
+	
+	* <span style="color:#9DAAB6;">集合 Collection</span>
+		* [shuffle](lodash/shuffle.md)
 
 	* <span style="color:#9DAAB6;">实用函数 Util</span>
 		* [defaultTo](lodash/defaultTo.md)
