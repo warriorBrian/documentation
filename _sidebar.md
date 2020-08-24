@@ -41,6 +41,7 @@
 	
 	* <span style="color:#9DAAB6;">集合 Collection</span>
 		* [shuffle](lodash/shuffle.md)
+		* [sample](lodash/sample.md)
 
 	* <span style="color:#9DAAB6;">实用函数 Util</span>
 		* [defaultTo](lodash/defaultTo.md)
