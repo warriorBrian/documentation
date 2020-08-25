@@ -84,3 +84,4 @@
 	* <span style="color:#9DAAB6;">Array</span>
 		* [countBy](30scode/countBy.md)
 		* [mapObject](30scode/mapObject.md)
+		* [frequencies](30scode/frequencies.md)
