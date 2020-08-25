@@ -85,3 +85,4 @@
 		* [countBy](30scode/countBy.md)
 		* [mapObject](30scode/mapObject.md)
 		* [frequencies](30scode/frequencies.md)
+		* [groupBy](30scode/groupBy.md)
