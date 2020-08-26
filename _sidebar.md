@@ -86,3 +86,8 @@
 		* [mapObject](30scode/mapObject.md)
 		* [frequencies](30scode/frequencies.md)
 		* [groupBy](30scode/groupBy.md)
+		* [shank](30scode/shank.md)
+
+
+
+
